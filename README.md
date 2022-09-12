@@ -92,6 +92,4 @@
 <h2 align="left">GitHub stats ⚡️ </h2>
 
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirbenzaamia&show_icons=true&theme=radical)
-<h2 align="left">Most used languages 💻 </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abirbenzaamia&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abirbenzaamia1&theme=dark)](https://git.io/streak-stats)
