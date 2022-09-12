@@ -92,4 +92,4 @@
 <h2 align="left">GitHub stats ⚡️ </h2>
 
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirbenzaamia&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abirbenzaamia1&theme=dark)](https://git.io/streak-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abirbenzaamia&theme=radical)  
